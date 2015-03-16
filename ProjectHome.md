@@ -1,0 +1,1 @@
+Simple implementation of IRC client. Not all features implemented.
